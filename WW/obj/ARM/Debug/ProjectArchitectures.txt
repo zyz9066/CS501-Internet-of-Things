@@ -1,0 +1,4 @@
+C:\Users\NTU\source\repos\WW\Rpi.SenseHat\Rpi.SenseHat.csproj;arm
+C:\Users\NTU\source\repos\WW\RTIMULibCS\RTIMULibCS.csproj;arm
+C:\Users\NTU\source\repos\WW\RTIMULibCS\RTIMULibCS.csproj;arm
+C:\Users\NTU\source\repos\WW\WW\WW.csproj;arm
