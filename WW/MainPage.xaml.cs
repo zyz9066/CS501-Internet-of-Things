@@ -279,7 +279,7 @@ namespace WW
             string forecastSymbol;
             string forecastIcon;
             string cityID = "6146143"; // extract from city id list
-            string appID = "60605dc0c4ea32dc8351a1a32fff72a4"; // registered id
+            string appID = "605dc0c4ea32dc8351a1a32fff72a4"; // registered id
             string url;
 
 
